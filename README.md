@@ -1,2 +1,2 @@
 # Buddy
-The rude robot which hates humans
+The rude robot which hates humans. Buddy is an interactive robot which took me and hour to make. I am very new to arduino so the code is not much. This robot can answer your questions. All you have to do is type your questions in the Arduino serial port and the answer will display on the Display. He can only answer specific questions. Such as How are you or Why do you hate humans. For more details you can visit my instructable 
